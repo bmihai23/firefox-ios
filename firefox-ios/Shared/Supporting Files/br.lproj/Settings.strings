@@ -1,3 +1,9 @@
+/* On the autofill settings screen, a label for the section that displays the list of saved addresses. This label adds additional context for users regarding the toggle switch that allows saving and autofilling of addresses for webpages. */
+"Addresses.Settings.SavedAddressesSectionTitle.v124" = "CHOMLEC’HIOÙ ENROLLET";
+
+/* Displayed inside the keyboard hint when a user is entering their address and has at least one saved address. Indicates that there are stored addresses available for use in filling out a form. */
+"Addresses.Settings.UseSavedAddressFromKeyboard.v124" = "Implijout ur chomlec’h enrollet";
+
 /* Accessibility label for the add button in autofill settings screen. Pressing this button presents a modal that allows users to add a card by entering the credit card information. */
 "CreditCard.Settings.AddCard.AccessibilityLabel.v121" = "Ouzhpennañ ur gartenn";
 
