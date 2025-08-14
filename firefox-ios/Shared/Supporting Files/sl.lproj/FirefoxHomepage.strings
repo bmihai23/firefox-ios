@@ -19,6 +19,9 @@
 /* This is the placeholder text that is at the center of the search bar on the Firefox Homepage. */
 "FirefoxHomepage.SearchBar.PlaceholderTitle.v142" = "Iskanje ali naslov strani";
 
+/* This is the navigation title for the Shortcuts Library view */
+"FirefoxHomepage.Shortcuts.Library.Title.v143" = "Bližnjice";
+
 /* Accessibility label for shortcuts tile on the Firefox home page, indicating that the tile is a pinned tile. %@ is the title of the website. */
 "FirefoxHomepage.Shortcuts.Pinned.AccessibilityLabel.v139" = "Pripeto: %@";
 
