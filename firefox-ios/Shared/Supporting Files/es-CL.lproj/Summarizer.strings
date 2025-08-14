@@ -1,0 +1,40 @@
+/* The label for the error button that allows the user to close the summary view because there is an error summarizing the page and the summary cannot be retried. */
+"Summarizer.CloseButton.Label.v142" = "Cerrar";
+
+/* The error message displayed when the summarizer encounters missing page content while summarizing a page (e.g the page is still loading). */
+"Summarizer.Error.MissingPageContent.Message.v142" = "La página sigue cargándose. Espera a que termine y luego haz clic en \"Resumir\".";
+
+/* The error message displayed when the summarizer encounters a rate limit while summarizing a page. */
+"Summarizer.Error.RateLimited.Message.v142" = "No se puede manejar esto en este momento. ¡Vuelve a intentarlo más tarde!";
+
+/* The error message displayed when the summarizer encounters an unknown error while summarizing a page. */
+"Summarizer.Error.Unknown.Message.v142" = "Error al resumir la página. Vuelve a intentarlo de nuevo más tarde.";
+
+/* The error message displayed when the summarizer encounters unsafe content while summarizing a page. */
+"Summarizer.Error.UnsafeWebsite.Message.v142" = "Contenido limitado detectado. Esta página puede ser restringida o mayormente visual.";
+
+/* The error message displayed when the summarizer encounters unsupported content while summarizing a page (e.g unsupported language, content too long). */
+"Summarizer.Error.UnsupportedContent.Message.v142" = "Este sitio web no permite resúmenes de contenido. Prueba con una página diferente.";
+
+/* When the user uses the summarizing feature, this is the loading label that is shown while the summarization is being performed. */
+"Summarizer.Loading.Label.v142" = "Resumiendo…";
+
+/* The label for the error button that allows the user to retry summarizing the page. */
+"Summarizer.RetryButton.Label.v142" = "Reintentar";
+
+/* The label for the allow button on the ToS alert. */
+"Summarizer.ToS.Alert.AllowButton.Label.v142" = "Permitir";
+
+/* The message for the ToS alert that asks the user if they want to allow page summaries with Apple Intelligence. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.Alert.AppleMessage.Label.v142" = "%@ usa Apple Intelligence para resumir páginas.";
+
+/* The label for the cancel button on the ToS alert.
+The label for the learn more link button on the ToS alert. */
+"Summarizer.ToS.Alert.CancelButton.Label.v142" = "Cancelar";
+
+/* The message for the ToS alert that asks the user if they want to allow page summaries with Firefox AI. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.Alert.FirefoxMessage.Label.v142" = "%@ usa IA alojada de forma segura en los servidores de Mozilla para resumir páginas.";
+
+/* The title for the ToS alert that asks the user if they want to allow page summaries. */
+"Summarizer.ToS.Alert.Title.Label.v142" = "¿Permitir resúmenes de páginas?";
+
