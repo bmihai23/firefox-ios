@@ -1,3 +1,40 @@
+/* The label for the error button that allows the user to close the summary view because there is an error summarizing the page and the summary cannot be retried. */
+"Summarizer.CloseButton.Label.v142" = "סגירה";
+
+/* The error message displayed when the summarizer encounters missing page content while summarizing a page (e.g the page is still loading). */
+"Summarizer.Error.MissingPageContent.Message.v142" = "העמוד עדיין בטעינה. יש להמתין לסיום, ולאחר מכן ללחוץ על סיכום.";
+
+/* The error message displayed when the summarizer encounters a rate limit while summarizing a page. */
+"Summarizer.Error.RateLimited.Message.v142" = "לא ניתן לסכם עמוד זה כרגע. נא לנסות שוב מאוחר יותר!";
+
+/* The error message displayed when the summarizer encounters an unknown error while summarizing a page. */
+"Summarizer.Error.Unknown.Message.v142" = "שגיאה בסיכום העמוד. נא לנסות שוב מאוחר יותר.";
+
+/* The error message displayed when the summarizer encounters unsafe content while summarizing a page. */
+"Summarizer.Error.UnsafeWebsite.Message.v142" = "אותר תוכן מוגבל. ייתכן שעמוד זה יהיה מוגבל או חזותי בעיקרו.";
+
+/* The error message displayed when the summarizer encounters unsupported content while summarizing a page (e.g unsupported language, content too long). */
+"Summarizer.Error.UnsupportedContent.Message.v142" = "אתר זה אינו מאפשר סיכום תוכן. נא לנסות עמוד אחר.";
+
 /* When the user uses the summarizing feature, this is the loading label that is shown while the summarization is being performed. */
 "Summarizer.Loading.Label.v142" = "בתהליך סיכום…";
+
+/* The label for the error button that allows the user to retry summarizing the page. */
+"Summarizer.RetryButton.Label.v142" = "ניסיון חוזר";
+
+/* The label for the allow button on the ToS alert. */
+"Summarizer.ToS.Alert.AllowButton.Label.v142" = "לאפשר";
+
+/* The message for the ToS alert that asks the user if they want to allow page summaries with Apple Intelligence. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.Alert.AppleMessage.Label.v142" = "‏%@ משתמש ב־Apple Intelligence כדי לסכם עמודים.";
+
+/* The label for the cancel button on the ToS alert.
+The label for the learn more link button on the ToS alert. */
+"Summarizer.ToS.Alert.CancelButton.Label.v142" = "ביטול";
+
+/* The message for the ToS alert that asks the user if they want to allow page summaries with Firefox AI. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.Alert.FirefoxMessage.Label.v142" = "‏%@ משתמש ב־AI המאוחסן באופן מאובטח בשרתי Mozilla כדי לסכם עמודים.";
+
+/* The title for the ToS alert that asks the user if they want to allow page summaries. */
+"Summarizer.ToS.Alert.Title.Label.v142" = "לאפשר סיכומי עמודים?";
 

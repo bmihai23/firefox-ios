@@ -1,3 +1,40 @@
+/* The label for the error button that allows the user to close the summary view because there is an error summarizing the page and the summary cannot be retried. */
+"Summarizer.CloseButton.Label.v142" = "Lat att";
+
+/* The error message displayed when the summarizer encounters missing page content while summarizing a page (e.g the page is still loading). */
+"Summarizer.Error.MissingPageContent.Message.v142" = "Sida blir framleis lasta inn. Vent til ho er ferdig, og trykk deretter på samanfatt.";
+
+/* The error message displayed when the summarizer encounters a rate limit while summarizing a page. */
+"Summarizer.Error.RateLimited.Message.v142" = "Kan ikkje handsame denne akkurat no. Prøv igjen seinare!";
+
+/* The error message displayed when the summarizer encounters an unknown error while summarizing a page. */
+"Summarizer.Error.Unknown.Message.v142" = "Feil ved oppsummering av sida. Prøv på nytt seinare.";
+
+/* The error message displayed when the summarizer encounters unsafe content while summarizing a page. */
+"Summarizer.Error.UnsafeWebsite.Message.v142" = "Avgrensa innhald oppdaga. Denne sida kan vere avgrensa eller hovudsakleg visuell.";
+
+/* The error message displayed when the summarizer encounters unsupported content while summarizing a page (e.g unsupported language, content too long). */
+"Summarizer.Error.UnsupportedContent.Message.v142" = "Denne nettstaden tillèt ikkje innhaldssamandrag. Prøv ei anna side.";
+
 /* When the user uses the summarizing feature, this is the loading label that is shown while the summarization is being performed. */
 "Summarizer.Loading.Label.v142" = "Samanfattar…";
+
+/* The label for the error button that allows the user to retry summarizing the page. */
+"Summarizer.RetryButton.Label.v142" = "Prøv på nytt";
+
+/* The label for the allow button on the ToS alert. */
+"Summarizer.ToS.Alert.AllowButton.Label.v142" = "Tillat";
+
+/* The message for the ToS alert that asks the user if they want to allow page summaries with Apple Intelligence. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.Alert.AppleMessage.Label.v142" = "%@ brukar Apple Intelligence for å oppsummere sider.";
+
+/* The label for the cancel button on the ToS alert.
+The label for the learn more link button on the ToS alert. */
+"Summarizer.ToS.Alert.CancelButton.Label.v142" = "Avbryt";
+
+/* The message for the ToS alert that asks the user if they want to allow page summaries with Firefox AI. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.Alert.FirefoxMessage.Label.v142" = "%@ brukar kunstig intelligens som er sikkert drifta på Mozilla-serverar for å oppsummere sider.";
+
+/* The title for the ToS alert that asks the user if they want to allow page summaries. */
+"Summarizer.ToS.Alert.Title.Label.v142" = "Tillate sideoppsummering?";
 
