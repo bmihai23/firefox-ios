@@ -1,0 +1,37 @@
+/* The label for the error button that allows the user to close the summary view because there is an error summarizing the page and the summary cannot be retried. */
+"Summarizer.CloseButton.Label.v142" = "Tutup";
+
+/* The error message displayed when the summarizer encounters missing page content while summarizing a page (e.g the page is still loading). */
+"Summarizer.Error.MissingPageContent.Message.v142" = "Laman masih dimuat. Tunggu hingga selesai, lalu tekan meringkas.";
+
+/* The error message displayed when the summarizer encounters a rate limit while summarizing a page. */
+"Summarizer.Error.RateLimited.Message.v142" = "Tidak dapat menangani yang ini saat ini. Coba lagi nanti!";
+
+/* The error message displayed when the summarizer encounters an unknown error while summarizing a page. */
+"Summarizer.Error.Unknown.Message.v142" = "Kesalahan meringkas laman. Coba lagi nanti.";
+
+/* The error message displayed when the summarizer encounters unsafe content while summarizing a page. */
+"Summarizer.Error.UnsafeWebsite.Message.v142" = "Konten terbatas terdeteksi. Laman ini mungkin dibatasi atau sebagian besar visual.";
+
+/* The error message displayed when the summarizer encounters unsupported content while summarizing a page (e.g unsupported language, content too long). */
+"Summarizer.Error.UnsupportedContent.Message.v142" = "Situs web ini tidak mengizinkan peringkasan konten. Coba laman lain.";
+
+/* When the user uses the summarizing feature, this is the loading label that is shown while the summarization is being performed. */
+"Summarizer.Loading.Label.v142" = "Meringkas…";
+
+/* The label for the error button that allows the user to retry summarizing the page. */
+"Summarizer.RetryButton.Label.v142" = "Coba Lagi";
+
+/* The label for the allow button on the ToS alert. */
+"Summarizer.ToS.Alert.AllowButton.Label.v142" = "Izinkan";
+
+/* The message for the ToS alert that asks the user if they want to allow page summaries with Apple Intelligence. %@ is the app name (e.g Firefox). */
+"Summarizer.ToS.Alert.AppleMessage.Label.v142" = "%@ menggunakan Apple Intelligence untuk meringkas laman.";
+
+/* The label for the cancel button on the ToS alert.
+The label for the learn more link button on the ToS alert. */
+"Summarizer.ToS.Alert.CancelButton.Label.v142" = "Batal";
+
+/* The title for the ToS alert that asks the user if they want to allow page summaries. */
+"Summarizer.ToS.Alert.Title.Label.v142" = "Izinkan Ringkasan Laman?";
+
