@@ -65,7 +65,7 @@
 "Settings.AddressAutofill.Title.v126" = "Endereços";
 
 /* Section description in Appearance settings for middle button configuration of the bottom toolbar. */
-"Settings.Appearance.NavigationToolbar.Description.v145" = "Altera o botão no centro da barra de ferramentas.";
+"Settings.Appearance.NavigationToolbar.Description.v145" = "Alterar o botão no centro da barra de ferramentas.";
 
 /* Section header title in Appearance settings that configures the middle button of the bottom toolbar. */
 "Settings.Appearance.NavigationToolbar.SectionHeader.v145" = "Botão da barra de ferramentas";
@@ -227,7 +227,7 @@
 "Settings.Search.Suggest.ShowNonSponsoredSuggestions.Title.v124.v2" = "Sugestões da web";
 
 /* In the Search page of the Settings menu, the description for the setting to enable Suggestions from sponsors. %@ is the app name (e.g. Firefox). - Firefox. */
-"Settings.Search.Suggest.ShowSponsoredSuggestions.Description.v124" = "Apoiar o %@ com sugestões patrocinadas eventuais";
+"Settings.Search.Suggest.ShowSponsoredSuggestions.Description.v124" = "Apoiar o %@ com eventuais sugestões patrocinadas";
 
 /* In the Search page of the Settings menu, the title for the setting to enable Suggestions from sponsors. */
 "Settings.Search.Suggest.ShowSponsoredSuggestions.Title.v124" = "Sugestões de patrocinadores";
@@ -242,13 +242,13 @@
 "Settings.Studies.Title.v136" = "Instalar e executar estudos";
 
 /* This is the footer text for the setting that toggles the Summarize feature under the Summarize settings section. */
-"Settings.Summarize.FooterTitle.v142" = "Fornece acesso para resumir páginas.";
+"Settings.Summarize.FooterTitle.v142" = "Permitir acesso ao recurso de resumir páginas.";
 
 /* This is the footer text for the gestures features under the Summarize settings section. */
-"Settings.Summarize.GesturesSection.FooterTitle.v142" = "Agite seu dispositivo de um lado para o outro para resumir uma página.";
+"Settings.Summarize.GesturesSection.FooterTitle.v142" = "Balançar o dispositivo de um lado para outro para resumir a página.";
 
 /* This is the title for the setting that toggles the Shake Gesture feature under the Summarize settings section. */
-"Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "Agitar para resumir";
+"Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "Balançar para resumir";
 
 /* This is the section title for the gestures features under the Summarize settings section. */
 "Settings.Summarize.GesturesSection.Title.v142" = "Gestos";
@@ -257,7 +257,7 @@
 "Settings.Summarize.SummarizePagesTitle.v142" = "Resumir páginas";
 
 /* In the settings menu, in the General section, this is the title for the Summarize settings section. */
-"Settings.Summarize.Title.v142" = "Resumos de páginas";
+"Settings.Summarize.Title.v142" = "Resumo de páginas";
 
 /* Title for a link that explains how Mozilla send technical and interaction data. */
 "Settings.TechnicalData.Link.v136" = "Saiba mais";
@@ -276,4 +276,19 @@
 
 /* In the Appearance settings menu, in the Toolbar Button section, this label indicates that selecting this will make the New Tab button appear in the middle of the navigation toolbar. */
 "Settings.Toolbar.Navigation.MiddleButton.NewTab.v145" = "Nova aba";
+
+/* This is the section title text for the the Translation feature under the Translation settings section. */
+"Settings.Translation.SectionTitle.v145" = "Preferências de tradução";
+
+/* In the settings menu, in the General section, this is the text to show next to the Translation setting title and indicates if the translation feature has been disabled. */
+"Settings.Translation.SettingOff.v145" = "Desativada";
+
+/* In the settings menu, in the General section, this is the text to show next to the Translation setting title and indicates if the translation feature has been enabled. */
+"Settings.Translation.SettingOn.v145" = "Ativada";
+
+/* In the settings menu, in the General section, this is the title for the Translation settings section. */
+"Settings.Translation.Title.v145" = "Tradução";
+
+/* This is the title for the setting that toggles the Translation feature that allows users to translate web pages under the Translation settings section. */
+"Settings.Translation.ToggleTitle.v145" = "Ativar tradução";
 
