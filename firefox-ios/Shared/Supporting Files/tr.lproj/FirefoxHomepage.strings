@@ -1,8 +1,14 @@
-/* This is the title of the Pocket section on Firefox Homepage. */
-"FirefoxHome.Pocket.SectionTitle.v140" = "Haberler";
-
 /* The title for the Firefox homepage, only used to denote the name of the destination screen in the system back navigation button long-press menu */
 "FirefoxHome.ScreenTitle.v144" = "Giriş sayfası";
+
+/* This is the title for the button next to the stories section title on Firefox Homepage that, when tapped, transitions you to the Top Stories view which displays a collection of trending news articles. */
+"FirefoxHome.Stories.AllStoriesButtonTitle.v145" = "Tüm yazılar";
+
+/* This is the title that appears in the navigation bar for the All Stories view, a screen that displays a collection of trending news articles */
+"FirefoxHome.Stories.AllStoriesViewTitle.v145" = "Tüm yazılar";
+
+/* This is the title of the stories section on Firefox Homepage, which displays a collection of trending news articles */
+"FirefoxHome.Stories.PopularTodaySectionTitle.v145" = "Bugün popüler";
 
 /* This is the title of the Stories section on Firefox Homepage. */
 "FirefoxHome.Stories.SectionTitle.v140" = "Haberler";
@@ -14,7 +20,7 @@
 "FirefoxHomepage.FeltPrivacyUI.Body.v122" = "%@, tüm gizli sekmeleri kapattığınızda çerezlerinizi, geçmişinizi ve site verilerinizi temizler.";
 
 /* The link for the card that educates users about how private mode works. The link redirects to an external site for more information. The card shows up on the homepage when in the new privacy mode. */
-"FirefoxHomepage.FeltPrivacyUI.Link.v122" = "Etkinliğimi kimler görebilir?";
+"FirefoxHomepage.FeltPrivacyUI.Link.v122" = "Yaptıklarımı kimler görebilir?";
 
 /* The title for the card that educates users about how private mode works. The card shows up on the homepage when in the new privacy mode. */
 "FirefoxHomepage.FeltPrivacyUI.Title.v122" = "Bu cihazda iz bırakmayın";
