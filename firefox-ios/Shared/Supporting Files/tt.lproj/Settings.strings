@@ -163,3 +163,6 @@
 /* Title for a link that explains how Mozilla send technical and interaction data. */
 "Settings.TechnicalData.Link.v136" = "Күбрәк белү";
 
+/* Terms of Use settings section title */
+"Settings.TermsOfUse.Title.v137" = "Куллану шартлары";
+
