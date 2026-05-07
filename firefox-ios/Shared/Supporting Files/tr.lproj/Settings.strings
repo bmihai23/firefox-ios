@@ -68,7 +68,7 @@
 "Settings.Appearance.NavigationToolbar.Description.v145" = "Araç çubuğunun ortasındaki düğmeyi değiştirir.";
 
 /* Section header title in Appearance settings that configures the middle button of the bottom toolbar. */
-"Settings.Appearance.NavigationToolbar.SectionHeader.v145" = "Araç çubuğu düğmesi";
+"Settings.Appearance.NavigationToolbar.SectionHeader.v145" = "ARAÇ ÇUBUĞU DÜĞMESİ";
 
 /* Default section header title under page zoom settings. Indicates the default value for all websites */
 "Settings.Appearance.Zoom.Default.Title.v140" = "Varsayılan";
@@ -251,7 +251,7 @@
 "Settings.Summarize.GesturesSection.ShakeGestureTitle.v142" = "Özetlemek için salla";
 
 /* This is the section title for the gestures features under the Summarize settings section. */
-"Settings.Summarize.GesturesSection.Title.v142" = "Parmak hareketleri";
+"Settings.Summarize.GesturesSection.Title.v142" = "PARMAK HAREKETLERİ";
 
 /* This is the title for the setting that toggles the Summarize feature under the Summarize settings section. */
 "Settings.Summarize.SummarizePagesTitle.v142" = "Sayfaları özetle";
@@ -276,4 +276,19 @@
 
 /* In the Appearance settings menu, in the Toolbar Button section, this label indicates that selecting this will make the New Tab button appear in the middle of the navigation toolbar. */
 "Settings.Toolbar.Navigation.MiddleButton.NewTab.v145" = "Yeni sekme";
+
+/* This is the section title text for the the Translation feature under the Translation settings section. */
+"Settings.Translation.SectionTitle.v145" = "Çeviri tercihleri";
+
+/* In the settings menu, in the General section, this is the text to show next to the Translation setting title and indicates if the translation feature has been disabled. */
+"Settings.Translation.SettingOff.v145" = "Kapalı";
+
+/* In the settings menu, in the General section, this is the text to show next to the Translation setting title and indicates if the translation feature has been enabled. */
+"Settings.Translation.SettingOn.v145" = "Açık";
+
+/* In the settings menu, in the General section, this is the title for the Translation settings section. */
+"Settings.Translation.Title.v145" = "Çeviri";
+
+/* This is the title for the setting that toggles the Translation feature that allows users to translate web pages under the Translation settings section. */
+"Settings.Translation.ToggleTitle.v145" = "Çevirileri etkinleştir";
 
