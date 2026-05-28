@@ -194,10 +194,10 @@
 "Settings.Search.PageTitle.v121" = "ค้นหา";
 
 /* Description for `Show in Private Sessions` toggle, located in `Suggestions from Search Engines` section in the Search page in the Settings menu. */
-"Settings.Search.PrivateSession.Description.v125" = "แสดงคำแนะนำจากเครื่องมือค้นหาในวาระส่วนตัว";
+"Settings.Search.PrivateSession.Description.v125" = "แสดงคำแนะนำจากเครื่องมือค้นหาในเซสชันส่วนตัว";
 
 /* Label for toggle. Explains that in private browsing mode, the search suggestions which appears at the top of the search bar, can be toggled on or off. Located in `Suggestions from Search Engines` and `Address Bar - Firefox Suggest` sections in the Search page in the Settings menu. */
-"Settings.Search.PrivateSession.Setting.v124" = "แสดงในวาระส่วนตัว";
+"Settings.Search.PrivateSession.Setting.v124" = "แสดงในเซสชันส่วนตัว";
 
 /* Label for the `show search suggestions` setting, in the Search Settings page. */
 "Settings.Search.ShowSuggestions.v121" = "แสดงข้อเสนอแนะการค้นหา";
@@ -209,7 +209,7 @@
 "Settings.Search.Suggest.LearnAboutSuggestions.v124" = "เรียนรู้เพิ่มเติมเกี่ยวกับ Firefox Suggest";
 
 /* Description for `Show in Private Sessions` toggle, located in `Address Bar - Firefox Suggest` section in the Search page in the Settings menu. */
-"Settings.Search.Suggest.PrivateSession.Description.v125" = "แสดงคำแนะนำจาก Firefox Suggest ในวาระส่วนตัว";
+"Settings.Search.Suggest.PrivateSession.Description.v125" = "แสดงคำแนะนำจาก Firefox Suggest ในเซสชันส่วนตัว";
 
 /* In the Search page of the Settings menu, the title for the setting to enable search browsing history. */
 "Settings.Search.Suggest.SearchBrowsingHistory.Title.v124" = "ค้นหาประวัติการเรียกดู";
@@ -276,4 +276,19 @@
 
 /* In the Appearance settings menu, in the Toolbar Button section, this label indicates that selecting this will make the New Tab button appear in the middle of the navigation toolbar. */
 "Settings.Toolbar.Navigation.MiddleButton.NewTab.v145" = "แท็บใหม่";
+
+/* This is the section title text for the the Translation feature under the Translation settings section. */
+"Settings.Translation.SectionTitle.v145" = "ค่ากำหนดการแปล";
+
+/* In the settings menu, in the General section, this is the text to show next to the Translation setting title and indicates if the translation feature has been disabled. */
+"Settings.Translation.SettingOff.v145" = "ปิด";
+
+/* In the settings menu, in the General section, this is the text to show next to the Translation setting title and indicates if the translation feature has been enabled. */
+"Settings.Translation.SettingOn.v145" = "เปิด";
+
+/* In the settings menu, in the General section, this is the title for the Translation settings section. */
+"Settings.Translation.Title.v145" = "การแปล";
+
+/* This is the title for the setting that toggles the Translation feature that allows users to translate web pages under the Translation settings section. */
+"Settings.Translation.ToggleTitle.v145" = "เปิดใช้งานการแปล";
 
