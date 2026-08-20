@@ -61,6 +61,12 @@
 /* Description of the error page when the app is unable to connect to the server and will show a wayback fallback. %@ is the app name (e.g. Firefox). */
 "NativeErrorPage.Wayback.Error.Description.v154" = "Gall y wefan fod yn brysur neu ddim ar gael. Ceisiwch eto yn nes ymlaen. Os na fydd tudalennau eraill yn llwytho, gwiriwch eich Wi-Fi neu gysylltiad data. Gall %@ hefyd chwilio'r Wayback Machine am fersiwn cynharach o'r dudalen hon.";
 
+/* Footer text below the wayback button/card, explaining that the app can look for an archived version of the page via the Internet Archive's Wayback Machine. %1$@ is the app name (e.g. Firefox). %2$@ is the link text (Wayback Machine), which is a tappable link that opens web.archive.org. */
+"NativeErrorPage.Wayback.Error.FooterDescription.v155" = "Gall %1$@ chwilio am fersiwn cynharach o'r dudalen hon o %2$@ yr Archif Rhyngrwyd.";
+
+/* The tappable link text within the Wayback footer description, opens web.archive.org. */
+"NativeErrorPage.Wayback.Error.LinkText.v155" = "Wayback Machine";
+
 /* Label shown when wayback responds and says no snapshot was found. */
 "NativeErrorPage.Wayback.Error.NotFound.v155" = "Heb ganfod fersiwn archif";
 
