@@ -61,6 +61,12 @@
 /* Description of the error page when the app is unable to connect to the server and will show a wayback fallback. %@ is the app name (e.g. Firefox). */
 "NativeErrorPage.Wayback.Error.Description.v154" = "Stránka môže byť zaneprázdnená alebo nedostupná. Skúste to znova neskôr. Ak sa ostatné stránky nenačítajú, skontrolujte Wi‑Fi alebo dátové pripojenie. %@ môže tiež vyhľadať staršiu verziu tejto stránky na Wayback Machine.";
 
+/* Footer text below the wayback button/card, explaining that the app can look for an archived version of the page via the Internet Archive's Wayback Machine. %1$@ is the app name (e.g. Firefox). %2$@ is the link text (Wayback Machine), which is a tappable link that opens web.archive.org. */
+"NativeErrorPage.Wayback.Error.FooterDescription.v155" = "%1$@ môže vyhľadať staršiu verziu tejto stránky v internetovom archíve %2$@.";
+
+/* The tappable link text within the Wayback footer description, opens web.archive.org. */
+"NativeErrorPage.Wayback.Error.LinkText.v155" = "Wayback Machine";
+
 /* Label shown when wayback responds and says no snapshot was found. */
 "NativeErrorPage.Wayback.Error.NotFound.v155" = "Nenašla sa žiadna archivovaná verzia";
 

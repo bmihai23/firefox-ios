@@ -61,6 +61,9 @@
 /* Description of the error page when the app is unable to connect to the server and will show a wayback fallback. %@ is the app name (e.g. Firefox). */
 "NativeErrorPage.Wayback.Error.Description.v154" = "Ο ιστότοπος ενδέχεται να είναι απασχολημένος ή μη διαθέσιμος. Δοκιμάστε ξανά αργότερα. Εάν δεν φορτώνονται άλλες σελίδες, ελέγξτε το Wi-Fi ή τη σύνδεση δεδομένων σας. Το %@ μπορεί επίσης να αναζητήσει στο Wayback Machine μια παλαιότερη έκδοση αυτής της σελίδας.";
 
+/* The tappable link text within the Wayback footer description, opens web.archive.org. */
+"NativeErrorPage.Wayback.Error.LinkText.v155" = "Wayback Machine";
+
 /* Label shown when wayback responds and says no snapshot was found. */
 "NativeErrorPage.Wayback.Error.NotFound.v155" = "Δεν βρέθηκε αρχειοθετημένη έκδοση";
 
