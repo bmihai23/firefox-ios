@@ -52,8 +52,14 @@
 /* On error page, this is the title for no internet connection */
 "NativeErrorPage.NoInternetConnection.TitleLabel.v131" = "ดูเหมือนว่ามีปัญหาเกี่ยวกับการเชื่อมต่ออินเทอร์เน็ตของคุณ";
 
-/* Label of the button on the connection error page - displayed if the user clicks on the button to requested an earlier version of the page and the search is in progress. */
-"NativeErrorPage.Wayback.Error.Checking.v154" = "กำลังตรวจสอบหน้าเว็บ…";
+/* Description of the error page when the app is unable to connect to the server and will show a wayback fallback. %@ is the app name (e.g. Firefox). */
+"NativeErrorPage.Wayback.Error.Description.v154" = "ไซต์อาจมีผู้ใช้หนาแน่นหรือไม่พร้อมให้บริการ โปรดลองใหม่ภายหลัง หากหน้าเว็บอื่นก็ไม่โหลด ให้ตรวจสอบ Wi-Fi หรือการเชื่อมต่อข้อมูลของคุณ %@ ยังค้นหาหน้านี้เวอร์ชันก่อนหน้าใน Wayback Machine ได้";
+
+/* Footer text below the wayback button/card, explaining that the app can look for an archived version of the page via the Internet Archive's Wayback Machine. %1$@ is the app name (e.g. Firefox). %2$@ is the link text (Wayback Machine), which is a tappable link that opens web.archive.org. */
+"NativeErrorPage.Wayback.Error.FooterDescription.v155" = "%1$@ สามารถค้นหาหน้านี้เวอร์ชันก่อนหน้าใน %2$@ ของ Internet Archive ได้";
+
+/* The tappable link text within the Wayback footer description, opens web.archive.org. */
+"NativeErrorPage.Wayback.Error.LinkText.v155" = "Wayback Machine";
 
 /* Button label allowing the user to retry searching the Wayback Machine after a failed attempt. */
 "NativeErrorPage.Wayback.Error.Retry.v154" = "ลองใหม่";
@@ -63,4 +69,7 @@
 
 /* Title of the error page when the app is unable to connect to the server and will show a wayback fallback. */
 "NativeErrorPage.Wayback.Error.Title.v154" = "ไม่สามารถเชื่อมต่อ";
+
+/* Accessibility hint read by VoiceOver describing what happens when the 'Check for earlier version' button is clicked. */
+"NativeErrorPage.Wayback.Error.WaybackButtonA11yHint.v154" = "ค้นหาสำเนาหน้านี้ที่บันทึกไว้ใน Wayback Machine";
 
