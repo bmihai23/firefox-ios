@@ -40,6 +40,12 @@
 /* On error page, this is the text on a button that will try to load the page again. */
 "NativeErrorPage.ButtonLabel.v155" = "Saiatu berriro";
 
+/* On error page, message shown when the app can't connect because cellular data is turned off for the app and explaining to the user how to troubleshoot. %@ is the app name (e.g. Firefox). */
+"NativeErrorPage.CellularDataRestricted.Description.v156" = "Konektatu Wi-Fi sarera edo joan iOS ezarpenetara eta aktibatu mugikorreko datuak %@ aplikaziorako.";
+
+/* On error page, title shown when the app can't connect because cellular data is turned off for this specific app in iOS settings. %@ is the app name (e.g. Firefox). */
+"NativeErrorPage.CellularDataRestricted.TitleLabel.v156" = "Datu mugikorrak aktibatu gabe daude %@ aplikaziorako.";
+
 /* On error page, this is the description for a generic error. %@ is the site url. */
 "NativeErrorPage.GenericError.Description.v134" = "%@ gunearen jabeak ez du ondo konfiguratu eta ezin da konexio segururik sortu.";
 
@@ -65,7 +71,7 @@
 "NativeErrorPage.Wayback.Error.Description.v154" = "Baliteke gunea lanpetuta egotea edo erabilgarri ez egotea. Saiatu berriro geroago. Beste orriak ere ez badira kargatzen, egiaztatu zure Wi-Fi edo datu-konexioa. %@(e)k ere orri honen aurreko bertsio bat bila dezake Wayback Machine erabilita.";
 
 /* Footer text below the wayback button/card, explaining that the app can look for an archived version of the page via the Internet Archive's Wayback Machine. %1$@ is the app name (e.g. Firefox). %2$@ is the link text (Wayback Machine), which is a tappable link that opens web.archive.org. */
-"NativeErrorPage.Wayback.Error.FooterDescription.v155" = "%1$@(e)k orri honen aurreko bertsio bat bilatzen du Internet Archive-ren %2$@ erabilita.";
+"NativeErrorPage.Wayback.Error.FooterDescription.v155" = "%1$@(e)k orri honen aurreko bertsio bat bila dezake Internet Archive-ren %2$@ erabilita.";
 
 /* The tappable link text within the Wayback footer description, opens web.archive.org. */
 "NativeErrorPage.Wayback.Error.LinkText.v155" = "Wayback Machine";

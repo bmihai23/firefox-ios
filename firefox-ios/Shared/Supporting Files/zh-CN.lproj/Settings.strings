@@ -83,7 +83,7 @@
 "Settings.AIControls.AIPoweredFeaturesSection.PageSummariesSection.Title.v151" = "页面摘要";
 
 /* In the AI Controls settings, in the AI powered features section, this is the message that describes the Quick Answers feature */
-"Settings.AIControls.AIPoweredFeaturesSection.QuickAnswersSection.Message.v154" = "您的声音、问题和答案永远不会被存储。";
+"Settings.AIControls.AIPoweredFeaturesSection.QuickAnswersSection.Message.v154" = "您的声音、问题和回答永远不会被存储。";
 
 /* In the AI Controls settings, in the AI powered features section, this is the title that describes the Quick Answers feature */
 "Settings.AIControls.AIPoweredFeaturesSection.QuickAnswersSection.Title.v154" = "快问快答";
@@ -219,6 +219,9 @@
 
 /* Title displayed in header of the FxA settings panel. */
 "Settings.FxA.Title.v119" = "账户";
+
+/* In the settings menu, on the Firefox wallpaper customization screen, this is the brand title for the section containing the Wrexham AFC wallpapers. */
+"Settings.Home.Option.Wallpaper.WrexhamBrandTitle.v155" = "雷克瑟姆足球俱乐部";
 
 /* This is the description for the setting that toggles Sync related notifications in the settings menu under the Notifications section. */
 "Settings.Notifications.SyncNotificationsStatus.v112" = "需要开启此功能才能接收标签页，并在您于其他设备上登录时收到通知。";
