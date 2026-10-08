@@ -146,7 +146,7 @@
 "Settings.Appearance.Zoom.Title.v140" = "Масштаб сторінки";
 
 /* Zoom level title under page zoom settings to select the default zoom level for all websites */
-"Settings.Appearance.Zoom.ZoomLevelTitle.v140" = "Рівень масштабування";
+"Settings.Appearance.Zoom.ZoomLevelTitle.v140" = "Масштаб";
 
 /* In the settings menu, in the General section, this is the title for Autofills & Passwords customization section. */
 "Settings.AutofillAndPassword.Title.v137" = "Автозаповнення і паролі";
@@ -177,6 +177,9 @@
 
 /* Title for the Ad Blocker toggle in the Browsing settings page. */
 "Settings.Browsing.AdBlocker.Title.v155" = "Блокувальник реклами";
+
+/* Title for the Background Audio toggle in the Browsing settings page. When enabled, audio from web pages continues playing after the app is backgrounded. */
+"Settings.Browsing.BackgroundAudio.Title.v156" = "Аудіо на задньому плані";
 
 /* Title for the Block Ads toggle in the Browsing settings page. When enabled, the app blocks advertisements. */
 "Settings.Browsing.BlockAds.Title.v153" = "Блокування реклами";
@@ -428,5 +431,5 @@
 "Settings.Translation.ToggleFooter.v151" = "Вимкніть цю функцію, щоб вилучити переклад з панелі інструментів і меню.";
 
 /* This is the title for the setting that toggles the Translation feature that allows users to translate web pages under the Translation settings section. */
-"Settings.Translation.ToggleTitle.v145" = "Увімкнути переклад";
+"Settings.Translation.ToggleTitle.v145" = "Увімкнути переклади";
 
