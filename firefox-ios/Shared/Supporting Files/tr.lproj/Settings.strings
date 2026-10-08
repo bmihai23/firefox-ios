@@ -359,7 +359,7 @@
 "Settings.Summarize.GesturesSection.Title.v142" = "PARMAK HAREKETLERİ";
 
 /* The title for the language choose section for the summarizer inside the Summarize settings. */
-"Settings.Summarize.LanguageSection.Title.v149" = "Dil";
+"Settings.Summarize.LanguageSection.Title.v149" = "DİL";
 
 /* The label for the picker option to select the website language for the summarizer inside the Summarize settings. */
 "Settings.Summarize.LanguageSection.WebsiteLanguageLabel.v149" = "Web sitesi dili";

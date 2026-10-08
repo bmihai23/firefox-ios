@@ -104,7 +104,7 @@
 "Settings.AIControls.BlockAIEnhancementsLink.v151" = "იხილეთ, რა არის და რას მოიცავს";
 
 /* This is the title for the setting that toggles whether to block AI enhancements under the AI Controls settings section. */
-"Settings.AIControls.BlockAIEnhancementsTitle.v151" = "შეიზღუდოს AI-შესაძლებლობები";
+"Settings.AIControls.BlockAIEnhancementsTitle.v151" = "შეიზღუდოს ხელგონის შესაძლებლობები";
 
 /* In the AI Controls settings, this is the text that appears when you have turned on the Block AI Enhancements toggle */
 "Settings.AIControls.BlockedInformation.v151" = "ახალი ან არსებული AI-შესაძლებლობები შეიზღუდება ნაგულისხმევად. ცალკეულ შესაძლებლობას შეზღუდვა მოხსენით ქვემოთ.";
